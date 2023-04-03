@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+// https://refactoring.guru/design-patterns/abstract-factory
 func main() {
 	adidasFactory, _ := GetSportsFactory("adidas")
 	nikeFactory, _ := GetSportsFactory("nike")

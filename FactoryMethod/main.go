@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+// https://refactoring.guru/design-patterns/factory-method
 func main() {
 	ak47, _ := getGun("AK47")
 	m16, _ := getGun("M16")

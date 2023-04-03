@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+// https://refactoring.guru/design-patterns/bridge
 func main() {
 
 	var macComputer Computer

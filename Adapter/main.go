@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+// https://refactoring.guru/design-patterns/adapter
 func main() {
 
 	client := &Client{}

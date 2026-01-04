@@ -1,0 +1,3 @@
+- [x] 1. Create file `AbstractFactory/abstractfactory_test.go`
+- [x] 2. Write tests to exercise the expected factory behaviour
+- [x] 3. Run `go test ./AbstractFactory` to validate tests pass
